@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Loves",
+      "value": "Sosuke"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ginger"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Fierce"
+    }
+  ],
+  "description": "The world's most adorable and sensitive pup.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdeV5TGPdp7HhgyNd43pkZXdoZpEvMNYsaYNX2JKbp6mg",
+  "name": "Ponyo"
+}
